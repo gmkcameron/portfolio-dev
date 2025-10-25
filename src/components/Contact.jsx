@@ -83,7 +83,7 @@ function Contact() {
           </div>
         </div>
 
-        <form className="contact-form" onSubmit={handleSubmit}>
+        {/* <form className="contact-form" onSubmit={handleSubmit}>
           <div className="form-group">
             <label htmlFor="name">Nome</label>
             <input
@@ -126,7 +126,7 @@ function Contact() {
           <button type="submit" className="submit-btn">
             Enviar Mensagem
           </button>
-        </form>
+        </form> */}
       </div>
     </section>
   )
