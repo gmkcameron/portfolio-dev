@@ -19,13 +19,13 @@ function Hero() {
             <a href="#contact" className="btn btn-secondary">Contato</a>
           </div>
           <div className="hero-social">
-            <a href="https://github.com/seu-usuario" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
+            <a href="https://github.com/gmkcameron" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
               <FaGithub />
             </a>
-            <a href="https://linkedin.com/in/seu-perfil" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
+            <a href="https://www.linkedin.com/in/guilherme-cameron/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
               <FaLinkedin />
             </a>
-            <a href="mailto:seu-email@example.com" aria-label="Email">
+            <a href="mailto:gmkcameron84@gmail.com" aria-label="Email">
               <FaEnvelope />
             </a>
           </div>
