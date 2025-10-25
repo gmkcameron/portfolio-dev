@@ -12,7 +12,7 @@ function About() {
       <div className="about-content">
         <div className="about-text">
           <p>
-            Sou um desenvolvedor fullstack júnior apaixonado por tecnologia e
+            Sou um Desenvolvedor Fullstack Júnior apaixonado por tecnologia e
             sempre em busca de novos desafios. Minha jornada na programação começou
             com curiosidade e se transformou em uma dedicação constante ao aprendizado.
           </p>
@@ -22,17 +22,15 @@ function About() {
             até a construção de APIs robustas e escaláveis com <strong>Node.js e Express</strong>.
           </p>
           <p>
-            Atualmente, estou focado em aprimorar minhas habilidades em <strong>backend</strong>,
+            Atualmente, estou focado em aprimorar minhas habilidades em <strong>Backend</strong>,
             trabalhando com bancos de dados, autenticação e arquitetura de APIs RESTful.
-            Busco minha primeira oportunidade profissional para contribuir com projetos reais
-            e continuar evoluindo como desenvolvedor.
           </p>
           <div className="about-highlights">
             <div className="highlight-item">
               <span className="highlight-icon">🎯</span>
               <div>
                 <h4>Foco em Backend</h4>
-                <p>Especialização em Node.js e Express</p>
+                <p>Prática constante em Node.js e Express</p>
               </div>
             </div>
             <div className="highlight-item">
