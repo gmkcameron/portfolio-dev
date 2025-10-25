@@ -9,11 +9,11 @@ function Footer() {
     <footer className="footer">
       <div className="footer-content">
         <p>
-          Desenvolvido com <FaHeart className="heart-icon" /> por Seu Nome
+          Desenvolvido por CameronDev
         </p>
         <p className="footer-year">© {currentYear} - Todos os direitos reservados</p>
         <p className="footer-tech">
-          Feito com React, Node.js e muito café ☕
+          Feito com React e Node.js
         </p>
       </div>
     </footer>
