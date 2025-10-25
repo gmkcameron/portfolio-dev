@@ -158,12 +158,12 @@ function Projects() {
         ))}
       </div>
 
-      <div className="projects-note">
+      {/* <div className="projects-note">
         <p>
           💡 <strong>Nota:</strong> Estes são projetos de estudo e prática.
           Substitua os links pelos seus repositórios reais no GitHub!
         </p>
-      </div>
+      </div> */}
     </section>
   )
 }
