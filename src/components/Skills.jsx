@@ -73,10 +73,10 @@ function Skills() {
         ))}
       </div>
 
-      <div className="learning-section">
+      {/* <div className="learning-section">
         <h3>🚀 Atualmente estudando</h3>
         <p>TypeScript, Docker, Testes Automatizados e Arquitetura de Software</p>
-      </div>
+      </div> */}
     </section>
   )
 }
