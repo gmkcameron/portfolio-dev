@@ -7,11 +7,11 @@ function Hero() {
     <section id="home" className="hero">
       <div className="hero-content">
         <div className="hero-text">
-          <p className="hero-greeting">Olá, eu sou</p>
-          <h1 className="hero-name">Desenvolvedor Fullstack</h1>
-          <h2 className="hero-title">JavaScript</h2>
+          <p className="hero-greeting">Olá, sou</p>
+          <h1 className="hero-name">Guilherme Cameron</h1>
+          <h2 className="hero-title">Desenvolvedor Fullstack</h2>
           <p className="hero-description">
-            Desenvolvedor júnior apaixonado por criar soluções web completas, 
+            Apaixonado por tecnologia e por criar soluções web completas, 
             do backend ao frontend, com foco em Node.js e React.
           </p>
           <div className="hero-buttons">
@@ -33,8 +33,8 @@ function Hero() {
         <div className="hero-image">
           <div className="hero-photo">
             <img
-              src="https://via.placeholder.com/320x320.png?text=Sua+Foto"
-              alt="Foto de Seu Nome"
+              src="/hero-photo.png"
+              alt="Foto de Guilherme Cameron"
             />
           </div>
         </div>
