@@ -48,7 +48,7 @@ function Skills() {
         <h2 className="section-title">Minhas Skills</h2>
         <div className="title-underline"></div>
         <p className="section-subtitle">
-          Tecnologias que utilizo no desenvolvimento de projetos fullstack
+          Tecnologias que utilizo no desenvolvimento de Projetos Fullstack
         </p>
       </div>
 
